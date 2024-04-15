@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290624273134",
+    "project_id": "mynotes-del",
+    "storage_bucket": "mynotes-del.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290624273134:android:1794bdd2035d43d1e391ff",
+        "android_client_info": {
+          "package_name": "com.delphstuffs.myfirstnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5OGrl_Vuz5Vuq2rhCPHh8ffxw6EVOSAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
